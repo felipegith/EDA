@@ -1,0 +1,6 @@
+@Mixeq.Api_HostAddress = http://localhost:5253
+
+GET {{Mixeq.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

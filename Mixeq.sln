@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mixeq.Api", "Mixeq.Api\Mixeq.Api.csproj", "{B1132AA9-299A-42CD-B900-FC04DBA92E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mixeq.Application", "Mixeq.Application\Mixeq.Application.csproj", "{5DF5AB4F-2BE0-45DA-A326-8BFBB58A5742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mixeq.Domain", "Mixeq.Domain\Mixeq.Domain.csproj", "{75F8296B-D9F4-4034-AD2C-A440A7E93421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mixeq.Events", "Mixeq.Events\Mixeq.Events.csproj", "{A7F5D75E-4393-4F27-A642-35F8EBAD4BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mixeq.Infrastructure", "Mixeq.Infrastructure\Mixeq.Infrastructure.csproj", "{4DF48C63-B2B2-40D6-B006-1AF478E1696C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1132AA9-299A-42CD-B900-FC04DBA92E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1132AA9-299A-42CD-B900-FC04DBA92E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1132AA9-299A-42CD-B900-FC04DBA92E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1132AA9-299A-42CD-B900-FC04DBA92E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF5AB4F-2BE0-45DA-A326-8BFBB58A5742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF5AB4F-2BE0-45DA-A326-8BFBB58A5742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF5AB4F-2BE0-45DA-A326-8BFBB58A5742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF5AB4F-2BE0-45DA-A326-8BFBB58A5742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F8296B-D9F4-4034-AD2C-A440A7E93421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F8296B-D9F4-4034-AD2C-A440A7E93421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F8296B-D9F4-4034-AD2C-A440A7E93421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F8296B-D9F4-4034-AD2C-A440A7E93421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F5D75E-4393-4F27-A642-35F8EBAD4BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F5D75E-4393-4F27-A642-35F8EBAD4BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F5D75E-4393-4F27-A642-35F8EBAD4BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F5D75E-4393-4F27-A642-35F8EBAD4BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF48C63-B2B2-40D6-B006-1AF478E1696C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF48C63-B2B2-40D6-B006-1AF478E1696C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF48C63-B2B2-40D6-B006-1AF478E1696C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF48C63-B2B2-40D6-B006-1AF478E1696C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
